@@ -1,4 +1,4 @@
-# Fully C++ OG MW2 Cheat
+# Fully C++ OG MW2 Gameplay Assistance Utility
 
 Demonstrates Reading and Writing to memory of specific process (MW2 Game) using pointers.
 
