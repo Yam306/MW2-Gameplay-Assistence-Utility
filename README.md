@@ -1,5 +1,7 @@
 # Fully C++ OG MW2 Gameplay Assistance Utility
 
+! Project was only created as a hobby during freetime.
+
 Demonstrates Reading and Writing to memory of specific process (MW2 Game) using pointers.
 
 # Functions:
